@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/real-estate-website/static/css/main.a56f0284.css",
+    "main.js": "/real-estate-website/static/js/main.7dd0497f.js",
+    "static/media/pricing.jpg": "/real-estate-website/static/media/pricing.adbb25e1ed47a885f288.jpg",
+    "static/media/services.jpg": "/real-estate-website/static/media/services.002ddfbce306977f7d95.jpg",
+    "static/media/about.jpg": "/real-estate-website/static/media/about.1a4a18f39be25cc3a009.jpg",
+    "static/media/Banner.jpg": "/real-estate-website/static/media/Banner.4543a40d3ac3f586a985.jpg",
+    "index.html": "/real-estate-website/index.html",
+    "main.a56f0284.css.map": "/real-estate-website/static/css/main.a56f0284.css.map",
+    "main.7dd0497f.js.map": "/real-estate-website/static/js/main.7dd0497f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56f0284.css",
+    "static/js/main.7dd0497f.js"
+  ]
+}
